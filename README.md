@@ -5,7 +5,7 @@ This repository contains a list of all the projects completed during my API Test
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-|   | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
+| [Project1](./Shoppers_Stack_RESTful_Web_Service/ReadME.md)  | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
 | employ_project    | A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
 | shape_project1  | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
 
@@ -17,6 +17,6 @@ If you have any feedback or suggestions for improvements, please feel free to op
 # 📋 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[Project1](./Project-1/ReadME.md)
-
+[Project1](./Shoppers_Stack_RESTful_Web_Service/ReadME.md)
+Shoppers_Stack_RESTful_Web_Service
 
