@@ -44,5 +44,6 @@ Welcome to ShoppersStack, a comprehensive RESTful web service application design
 - Delivered professional reports, identifying and fixing critical bugs.
 
 **🚀 This project reflects strong API testing and automation skills, aligning with roles in QA and SDET.**
-- After running Game.java, students can click on various 2D and 3D shapes to learn more about them, including calculating their area or volume.   
+
+THamk You!
 
