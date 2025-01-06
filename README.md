@@ -9,7 +9,7 @@ This repository contains a list of all the projects completed during my API Test
 |[BOOKER_RESTFUL_API_TESTING](./BOOKER_RESTFUL_API_TESTING/README.md)| A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
 |[REQRES_API_TESTING](./REQRES_API_TESTING/README.md) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
 |[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)| An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
-|[GITHUB](./) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+|[GITHUB API TESTING](./) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
 
 
 
