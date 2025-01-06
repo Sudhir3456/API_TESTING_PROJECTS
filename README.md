@@ -5,11 +5,11 @@ This repository contains a list of all the projects completed during my API Test
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-|[Shoppers_Stack_RESTful_Web_Service_Testing](./Shoppers_Stack_RESTful_Web_Service/README.md) | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
-|[BOOKER_RESTFUL_API_TESTING](./BOOKER_RESTFUL_API_TESTING/README.md)| A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
-|[REQRES_API_TESTING](./REQRES_API_TESTING/README.md) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
-|[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)| An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
-|[GITHUB API TESTING](./) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+|[Shoppers_Stack_RESTful_Web_Service_Testing](./Shoppers_Stack_RESTful_Web_Service/README.md) |ShoppersStack is an eCommerce platform offering comprehensive API endpoints for managing shopper profiles, orders, and product reviews. This project demonstrates expertise in functional, security, and performance testing, with automation scripts to ensure seamless integration and reliability in a production environment.|Postman,Swagger UI , HTML Report |
+|[BOOKER_RESTFUL_API_TESTING](./BOOKER_RESTFUL_API_TESTING/README.md)|Testing of hotel booking and user management endpoints, focusing on functionality, security, and automation for seamless API operations.|Postman Swagger UI HTML Report  |
+|[REQRES_API_TESTING](./REQRES_API_TESTING/README.md) |API testing for simulated user management, validating user creation, retrieval, and authentication through functional and regression tests.|Postman Swagger UI HTML Report |
+|[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)|API testing for pet management, orders, and user services, focusing on functionality, performance, and automated validation.|Postman Swagger UI HTML Report |
+|[GITHUB API TESTING](./) |Testing GitHub repository, commits, and pull requests endpoints, covering functional, security, and performance testing with automation.|Postman Swagger UI HTML Report, Git & GitHub for version control |
 
 
 
@@ -18,29 +18,56 @@ To view the details of each project, simply click on the project name in the tab
 # 🤝 Contributing
 If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
 # 📋 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License file for details.
 
-[Project1](./Shoppers_Stack_RESTful_Web_Service/ReadME.md)
-Shoppers_Stack_RESTful_Web_Service
-Shoppers_Stack_RESTful_Web_Service/README.md
+# [Project1: ShoppersStack](./Shoppers_Stack_RESTful_Web_Service/ReadME.md)
 
-[Shoppers_Stack_RESTful_Web_Service](./Shoppers_Stack_RESTful_Web_Service/README.md)
-[BOOKER_RESTFUL_API_TESTING](./BOOKER_RESTFUL_API_TESTING/README.md)
+  # 🛒 ShoppersStack: Online Shopping Platform
 
-[Shoppers_Stack_RESTful_Web_Service](./GITHUBAPI AUTOMATION/README.md)
+Welcome to ShoppersStack, a comprehensive RESTful web service application designed to simplify online shopping for users and empower retailers to showcase their products. This platform allows shoppers to create profiles, manage carts, make secure payments, and interact with various features like product reviews and wishlists. Additionally, it provides merchants and admins with tools for efficient product management and analytics.
 
-[REQRES_API_TESTING](./REQRES_API_TESTING/README.md)
+# 📂Test Cases :
 
-[GITHUB API Testing](./GITHUBAPI AUTOMATION/README.md)
-API_TESTING_PROJECTS/GITHUBAPI AUTOMATION/README.md
+![Screenshot 2025-01-05 183526](https://github.com/user-attachments/assets/13f0646b-4db6-4a66-9ff9-b0f16b20de9d)
 
 
-[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)
+# 💼 Report :
 
-[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)
+![Screenshot 2025-01-05 191839](https://github.com/user-attachments/assets/6a169946-3918-4e8e-8c39-76b5fa85e2ed)
+  
+## 🌟Features  
+- **User Authentication:** Register, login, reset password, and verify accounts.
+- **Shopper Profile Management:**  Add, update, and retrieve user details.
+- **Cart and Wishlist Management:**  dd products, manage cart items, and save wishlists Order Processing: Place, track, and manage orders securely.
+- **Product Reviews and Ratings:** Share feedback on purchased items.
+
+## Getting Started 🚀
+### *Prerequisites*
+- Postman Toll
+- Swagger UI
+  
+### *Setup*
+ 🚀 Getting Started
+ 
+**Setup Environment:**
+- Configure test environments with necessary API endpoints and test data.
+
+ **Import Postman Collection:**
+- Use the provided Postman collection to initiate API testing.
+
+**Run API Tests:**
+- Execute functional, security, and performance tests based on predefined test cases.
+
+**Generate Reports:**
+- Collect insights and metrics using automated scripts and reporting tools.
 
 
-[GITHUB](./)
+# ✨ Highlights :
+- Tested 20+ endpoints, including Register, login, Update, and orders, Return Product, etc.
+- Automated tests using Postman and JMeter for regression and performance.
+- Delivered professional reports, identifying and fixing critical bugs.
 
+**🚀 This project reflects strong API testing and automation skills, aligning with roles in QA and SDET.**
 
+THamk You!
 
