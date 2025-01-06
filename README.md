@@ -19,4 +19,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Project1](./Shoppers_Stack_RESTful_Web_Service/ReadME.md)
 Shoppers_Stack_RESTful_Web_Service
+Shoppers_Stack_RESTful_Web_Service/README.md
+
+[Shoppers_Stack_RESTful_Web_Service](./Shoppers_Stack_RESTful_Web_Service/README.md)
+
 
