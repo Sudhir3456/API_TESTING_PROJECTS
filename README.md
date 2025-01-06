@@ -5,9 +5,12 @@ This repository contains a list of all the projects completed during my API Test
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| [Project1](./Shoppers_Stack_RESTful_Web_Service/ReadME.md)  | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
-| employ_project    | A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
-| shape_project1  | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+|[Shoppers_Stack_RESTful_Web_Service_Testing](./Shoppers_Stack_RESTful_Web_Service/README.md) | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
+|[BOOKER_RESTFUL_API_TESTING](./BOOKER_RESTFUL_API_TESTING/README.md)| A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+|[REQRES_API_TESTING](./REQRES_API_TESTING/README.md) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+|[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)| An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+|[GITHUB](./) | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+
 
 
 # 🚀 Getting Started
@@ -22,5 +25,22 @@ Shoppers_Stack_RESTful_Web_Service
 Shoppers_Stack_RESTful_Web_Service/README.md
 
 [Shoppers_Stack_RESTful_Web_Service](./Shoppers_Stack_RESTful_Web_Service/README.md)
+[BOOKER_RESTFUL_API_TESTING](./BOOKER_RESTFUL_API_TESTING/README.md)
+
+[Shoppers_Stack_RESTful_Web_Service](./GITHUBAPI AUTOMATION/README.md)
+
+[REQRES_API_TESTING](./REQRES_API_TESTING/README.md)
+
+[GITHUB API Testing](./GITHUBAPI AUTOMATION/README.md)
+API_TESTING_PROJECTS/GITHUBAPI AUTOMATION/README.md
+
+
+[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)
+
+[Petstore.swagger.io_Testing](./Petstore.swagger.io_Testing/README.md)
+
+
+[GITHUB](./)
+
 
 
