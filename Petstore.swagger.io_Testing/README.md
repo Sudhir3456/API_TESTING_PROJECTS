@@ -4,11 +4,13 @@
 The Petstore API, built using the OpenAPI specification, provides a RESTful interface for managing pet data in an online store. It supports operations such as adding pets, updating their details, managing orders, and handling user authentication. This project demonstrates expertise in API testing, automation, and performance analysis for real-world applications. 
 
 # 📂Test Cases Overview :
-![Screenshot 2025-01-05 184138](https://github.com/user-attachments/assets/86a8f027-6f9d-477f-805b-75df42d0b407)
+ 
+![PetStorePostman](https://github.com/user-attachments/assets/93f674bc-81c0-40c5-a596-3183ee35cbcb)
 
 
 # 💼 Report :
-![Screenshot 2025-01-05 192143](https://github.com/user-attachments/assets/8ce12013-5896-4ffb-9eed-dc3a898604c8)
+ 
+![PetstrorApiReport](https://github.com/user-attachments/assets/810d89ff-d717-4ffd-9c57-0d15a7bf32c6)
 
 
 ## Getting Started 🚀
