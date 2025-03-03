@@ -1,4 +1,4 @@
-# 💡 API_TESTING_PROJECTS 🎉
+ # 💡 API_TESTING_PROJECTS 🎉
 This repository contains a list of all the projects completed during my API Testing training. The projects were completed using a combination of Manual Testing,Api Testing,Postman ,OOPs and Collections Frameworks techniques and Eclips and Postman tools.
 
 # 👩‍💻 Project List
@@ -26,15 +26,15 @@ This project is licensed under the MIT License file for details.
 
 Welcome to ShoppersStack, a comprehensive RESTful web service application designed to simplify online shopping for users and empower retailers to showcase their products. This platform allows shoppers to create profiles, manage carts, make secure payments, and interact with various features like product reviews and wishlists. Additionally, it provides merchants and admins with tools for efficient product management and analytics.
 
-# 📂Test Cases :
-
-![Screenshot 2025-01-05 183526](https://github.com/user-attachments/assets/13f0646b-4db6-4a66-9ff9-b0f16b20de9d)
+# 📂Test Cases : 
+ 
+![ShopperStackApiPostman](https://github.com/user-attachments/assets/001e800e-86bd-4b52-a87e-79416174100f)
 
 
 # 💼 Report :
 
-![Screenshot 2025-01-05 191839](https://github.com/user-attachments/assets/6a169946-3918-4e8e-8c39-76b5fa85e2ed)
-  
+![ShopperStackApiRepport](https://github.com/user-attachments/assets/983f71c2-1b18-4b42-96d3-bd515da9e2dd)
+ 
 ## 🌟Features  
 - **User Authentication:** Register, login, reset password, and verify accounts.
 - **Shopper Profile Management:**  Add, update, and retrieve user details.
