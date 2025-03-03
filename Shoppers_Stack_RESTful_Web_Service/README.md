@@ -8,8 +8,10 @@ Welcome to ShoppersStack, a comprehensive RESTful web service application design
 
 
 # 💼 Report :
+ 
 
-![Screenshot 2025-01-05 191839](https://github.com/user-attachments/assets/6a169946-3918-4e8e-8c39-76b5fa85e2ed)
+![ShopperStackApiRepport](https://github.com/user-attachments/assets/7a2b24eb-955f-4336-864b-4298a53ef344)
+
   
 ## 🌟Features  
 - **User Authentication:** Register, login, reset password, and verify accounts.
