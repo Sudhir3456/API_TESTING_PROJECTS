@@ -69,5 +69,5 @@ Welcome to ShoppersStack, a comprehensive RESTful web service application design
 
 **🚀 This project reflects strong API testing and automation skills, aligning with roles in QA and SDET.**
 
-THamk You!
+Thank you!
 
