@@ -3,7 +3,8 @@
 The Reqres API is a lightweight RESTful service designed for testing and simulating user management operations, such as creating, retrieving, updating, and deleting user data. This project demonstrates proficiency in API testing, automation, and performance optimization, aligned with industry best practices.
 
 # 📂 Test Cases Overview :
-![Screenshot 2025-01-05 183724](https://github.com/user-attachments/assets/f8582a9d-da08-4fb4-8496-89a369dbd938)
+ 
+![ReqresPostman](https://github.com/user-attachments/assets/75a2fc99-e44d-49e9-acc5-d2d2e4f3f293)
 
 # 💼 Report :
 ![Screenshot 2025-01-05 192053](https://github.com/user-attachments/assets/5b7e1d0a-ad04-4651-81f8-277b53ee460e)
