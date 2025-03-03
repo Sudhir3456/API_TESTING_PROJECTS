@@ -3,11 +3,9 @@
 The Booker RESTful API is a robust web service for managing hotel bookings, offering endpoints for creating, updating, retrieving, and deleting bookings. Designed to handle real-world booking operations, this project provides an ideal platform to demonstrate expertise in API testing, automation, and performance evaluation.
 
 # 📂Test Cases Overview :
-![Screenshot 2025-01-05 183907](https://github.com/user-attachments/assets/449cee7a-bc34-4828-bfbd-4e7bab808a8c)
-
+![BookerApiPostman](https://github.com/user-attachments/assets/c44b4ea9-3e09-4a13-946b-01fdb7bcbdd8)
 # 💼 Report :
-![Screenshot 2025-01-05 191751](https://github.com/user-attachments/assets/46187e49-7a4c-4572-98ec-79d1ba566072)
-
+![BookerApiReport](https://github.com/user-attachments/assets/2a862c0f-546c-4fc7-ad9f-288355febe49)
 
 ## Getting Started 🚀
 ### *Prerequisites*
