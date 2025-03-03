@@ -4,7 +4,8 @@ Welcome to ShoppersStack, a comprehensive RESTful web service application design
 
 # 📂Test Cases :
 
-![Screenshot 2025-01-05 183526](https://github.com/user-attachments/assets/13f0646b-4db6-4a66-9ff9-b0f16b20de9d)
+  ![ShpperStackPostman](https://github.com/user-attachments/assets/89cd3312-43cb-472a-ac51-1e8890f3d278)
+
 
 
 # 💼 Report :
