@@ -3,12 +3,12 @@
 The GitHub RESTful API is a feature-rich web service that enables interaction with GitHub’s platform, supporting operations like repository management, user authentication, issue tracking, and more. This project demonstrates advanced API testing techniques, including automation, performance analysis, and defect reporting, tailored to modern development workflows.
 
 # 📂Test Cases Overview :
-![Screenshot 2025-01-05 184800](https://github.com/user-attachments/assets/d08223ca-cdf1-47da-8165-b05180285bf7)
-
+ 
+![GithubPostman](https://github.com/user-attachments/assets/c4fab588-4a73-4722-9c2a-048f28015a87)
+ 
 # 💼 Report :
-![Screenshot 2025-01-05 192253](https://github.com/user-attachments/assets/fb5da191-adec-46a4-bfee-ca331c60f51e)
-
-
+![GithubApiReport](https://github.com/user-attachments/assets/768b70fd-8167-4721-a3d2-75807aa0a8aa)
+ 
 ## Getting Started 🚀
 ### *Prerequisites*
 - Postman Toll
